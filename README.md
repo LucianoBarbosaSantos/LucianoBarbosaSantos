@@ -1,4 +1,4 @@
-- 👋 Oi eu sou @LucianoBarbosaSantos
+- 👋 Oi eu sou @LucianoBarbosaSantos.
 - 👀 Eu estou aprendendo atualmente a programar jogos no Scratch e em JavaScript.
 - 💞️ Tenho curiosidade em aprender páginas na web.
 - 📫 Vocês podem entrar em contato comigo através do email luciano.barbosa.santos@escola.pr.gov.br.
